@@ -7,7 +7,7 @@
 
 ## Table of Contents
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
+- [Prerequisites](#prerequisites)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -18,11 +18,13 @@ several type sof documents are located in this repo that include:
 * Laser characterization and qualification
 * Measurement systems
 
-### Prerequisites
+## Getting Started
+
+## Prerequisites
 
 Various sensitive optical equipment are needed to build the blood flow device and evaulate the quality of the laser illumintion required. See repo for test and calibration equipment.
 
-### Usage
+## Usage
 
 See the Openwater repo for Software, for User Manual. 
 
