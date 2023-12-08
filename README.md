@@ -38,3 +38,7 @@ Before contributing, please read our [Contributing Guidelines](CONTRIBUTING.md).
 ## License
 
 This project is licensed under the AGPLv3 License - see the [License](LICENSE.md) file for details.
+
+## Investigational Use Only
+CAUTION - Investigational device. Limited by Federal (or United States) law to investigational use. opw_phantoms has *not* been evaluated by the FDA and is not designed for the treatment or diagnosis of any disease. It is provided AS-IS, with no warranties. User assumes all liability and responsibility for identifying and mitigating risks associated with using this software.
+
