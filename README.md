@@ -1,9 +1,9 @@
 # opw_laser
-## This is Openwater's laser hardware repository added
-
+The laser is a critcal and most expensive component of the blood flow detection system.
+To undertand the system design a level of laser theory must be understood.
 
 ## Features
-
+The type of illumination is critial, design intent, limitaions and characterization tools are described in this repo.
 
 ## Table of Contents
 - [Getting Started](#getting-started)
