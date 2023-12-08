@@ -13,9 +13,10 @@
 - [License](#license)
 
 ## files located in the repo:
-several type sof documents are located in this repo that include
-description of bandwidth or coherence length
-measurement systems
+several type sof documents are located in this repo that include:
+* Description of bandwidth or coherence length
+* Laser characterization and qualification
+* Measurement systems
 
 ### Prerequisites
 
