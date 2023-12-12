@@ -14,7 +14,7 @@ The type of illumination is critial, design intent, limitaions and characterizat
 
 ## files located in the repo:
 several type sof documents are located in this repo that include:
-* Description of bandwidth or coherence length
+* Description of spectral bandwidth or coherence length
 * Laser characterization and qualification
 * Measurement systems
 
@@ -22,7 +22,7 @@ several type sof documents are located in this repo that include:
 
 ## Prerequisites
 
-Various sensitive optical equipment are needed to build the blood flow device and evaulate the quality of the laser illumintion required. See repo for test and calibration equipment.
+Various sensitive optical equipment are needed to build the blood flow device and evaulate the quality of the laser illumination required. See repo for test and calibration equipment and procedure.
 
 ## Usage
 
