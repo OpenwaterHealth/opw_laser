@@ -7,7 +7,9 @@ This imaging approach requires an illumination system (laser) and the detection 
 * Laser characterization and qualification-
 This document describes testing of the lasers used in Openwater systems. It begins with a short overview of important background topics including coherence length and chirp. It then describes the specific tests used to qualify our lasers, namely
 a) Laser spatial mode test
+
 b) Interferometric characterization to realize the frequency stability or perseverance of the linewidth during the pulse.
+
 c) Speckle contrast measurements.
 
 ## Table of Contents
