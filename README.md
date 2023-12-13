@@ -21,7 +21,7 @@ c) Speckle contrast measurements - This provides the final test procedure perfor
 - [Contributing](#contributing)
 - [License](#license)
 
-## files located in the repo:
+## files located in the google drive:
 several type sof documents are located in this repo that include:
 * Description of spectral bandwidth or coherence length
 * Laser characterization and qualification
