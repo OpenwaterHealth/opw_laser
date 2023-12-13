@@ -4,14 +4,12 @@ This imaging approach requires an illumination system (laser) and the detection 
 
 
 ## files located in the google drive (will be upload to repo after approval):
-* Laser characterization and qualification -
-This document describes testing of the lasers used in Openwater systems. It begins with a short overview of important background topics including coherence length and chirp. It then describes the specific tests used to qualify our lasers, namely
 
-  a) Laser spatial mode test - This document explains the procedure to run the transverse mode test for the laser during pulsing
+* Laser spatial mode test procedure - This document explains the procedure to run the transverse mode test for the laser during pulsing.
 
-  b) Interferometric characterization to realize the frequency stability or perseverance of the linewidth during the pulse - This document gives the detail information on the characterization of the laser for its coherence and the stability
+* Interferometric characterization - This test is performed to realize the frequency stability or perseverance of the linewidth during the pulse.
 
-  c) Speckle contrast measurements - This provides the final test procedure performed on the laser system with direct speckle contrast measruements to qualify the laser
+* Speckle contrast measurements - This provides the final test procedure performed on the laser system with direct speckle contrast measruements to qualify the laser.
 
 
 ## Table of Contents
