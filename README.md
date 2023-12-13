@@ -3,7 +3,7 @@ The noninvasive, real-time bloodflow monitoring system at Openwater employs the 
 This imaging approach requires an illumination system (laser) and the detection system (camera). A speckle pattern comprises random bright and dark spots that arise due to the interference of multiple backscatterd light from scattering medium (biological tissue). The quality of speckle image depends on the coherence and the stablility of the laser used in the system. Therefore, the laser system is tested for the coherence and the stability explained in details in the documents mentioned belwo.
 
 
-## Features
+## files located in the repo:
 * Laser characterization and qualification-
 This document describes testing of the lasers used in Openwater systems. It begins with a short overview of important background topics including coherence length and chirp. It then describes the specific tests used to qualify our lasers, namely
 a) Laser spatial mode test
