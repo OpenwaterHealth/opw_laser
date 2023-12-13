@@ -12,7 +12,7 @@ This imaging approach requires an illumination system (laser) and the detection 
 ## files located in repo:
 
 * Laser spatial mode test procedure - This document explains the procedure to run the transverse mode test for the laser during pulsing.
-
+https://github.com/OpenwaterHealth/opw_laser/blob/main/interferometer%20experiment%20detail.pdf
 * Interferometric characterization - This test is performed to realize the frequency stability or perseverance of the linewidth during the pulse.
 
 * Speckle contrast measurements - This provides the final test procedure performed on the laser system with direct speckle contrast measruements to qualify the laser.
