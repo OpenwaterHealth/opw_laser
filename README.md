@@ -1,9 +1,13 @@
-# opw_laser
-The laser is a critcal and most expensive component of the blood flow detection system.
-To undertand the system design a level of laser theory must be understood.
+# Introduction
+The noninvasive, real-time bloodflow monitoring system at Openwater employs the laser speckle contrast imaging technique.
+This imaging approach requires an illumination system (laser) and the detection system (camera). A speckle pattern comprises random bright and dark spots that arise due to the interference of multiple backscatterd light from scattering medium (biological tissue). The quality of speckle image depends on the coherence and the stablility of the laser used in the system.
+
 
 ## Features
-The type of illumination is critial, design intent, limitaions and characterization tools are described in this repo.
+The document "Laser characterization and qualification" describes testing of lasers used in Openwater systems. It begins with a short overview of important background topics including coherence length and chirp. It then describes the specific tests used to qualify our lasers, namely
+a) Laser spatial mode test
+b) Interferometric characterization to realize the frequency stability or perseverance of the linewidth during the pulse.
+c) Speckle contrast measurements.
 
 ## Table of Contents
 - [Getting Started](#getting-started)
