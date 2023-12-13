@@ -4,7 +4,7 @@ This imaging approach requires an illumination system (laser) and the detection 
 
 
 ## files located in the google drive (will be upload to repo after approval):
-* Laser characterization and qualification-
+* Laser characterization and qualification -
 This document describes testing of the lasers used in Openwater systems. It begins with a short overview of important background topics including coherence length and chirp. It then describes the specific tests used to qualify our lasers, namely
 
   a) Laser spatial mode test - This document explains the procedure to run the transverse mode test for the laser during pulsing
@@ -17,7 +17,6 @@ This document describes testing of the lasers used in Openwater systems. It begi
 ## Table of Contents
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -26,10 +25,6 @@ This document describes testing of the lasers used in Openwater systems. It begi
 ## Prerequisites
 
 Various sensitive optical equipment are needed to build the blood flow device and evaulate the quality of the laser illumination required. See repo for test and calibration equipment and procedure.
-
-## Usage
-
-See the Openwater repo for Software, for User Manual. 
 
 ## Contributing
 
