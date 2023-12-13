@@ -1,6 +1,6 @@
 # Introduction
 The noninvasive, real-time bloodflow monitoring system at Openwater employs the phase-wave laser speckle contrast imaging technique.
-This imaging approach requires an illumination system (laser) and the detection system (camera). A speckle pattern comprises random bright and dark spots that arise due to the interference of multiple backscatterd light from scattering medium (biological tissue). The quality of speckle image depends on the coherence and the stablility of the laser used in the system. Therefore, the laser system is tested for the coherence and the stability explained in details in the documents mentioned belwo.
+This imaging approach requires an illumination system (laser) and the detection system (camera). A speckle pattern comprises random bright and dark spots that arise due to the interference of multiple backscatterd light from scattering medium (biological tissue). The quality of speckle image depends on the coherence and the stablility of the laser used in the system. Therefore, the test protocol for the coherence and the stability is explained in details in these documents.
 
 
 ## files located in the google drive:
