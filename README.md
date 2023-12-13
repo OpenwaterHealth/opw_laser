@@ -21,12 +21,6 @@ This document describes testing of the lasers used in Openwater systems. It begi
 - [Contributing](#contributing)
 - [License](#license)
 
-## files located in the google drive:
-several type sof documents are located in this repo that include:
-* Description of spectral bandwidth or coherence length
-* Laser characterization and qualification
-* Measurement systems
-
 ## Getting Started
 
 ## Prerequisites
@@ -36,7 +30,6 @@ Various sensitive optical equipment are needed to build the blood flow device an
 ## Usage
 
 See the Openwater repo for Software, for User Manual. 
-
 
 ## Contributing
 
