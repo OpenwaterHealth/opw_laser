@@ -19,7 +19,7 @@ This document in wiki contains the information regarding the laser system used i
 
 * interferometer_chirp_test.m - a script to analyze the chirp data.
 
-* XIMEA_Speckle_Contrast_7.lua - a script to collect the speckle contrast measurement data.
+* XIMEA_Speckle_Contrast_7.lua - a script to collect the speckle contrast data on XIMEA camera.
 
 ## Prerequisites
 
