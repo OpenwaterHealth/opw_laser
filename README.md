@@ -13,13 +13,13 @@ This document in wiki contains the information regarding the laser system used i
 
 ## files located in repo:
 
- This provides the final test procedure performed on the laser system with direct speckle contrast measruements to qualify the laser.
+ These are the sample data and scripts used in the characterizaton of the lasers.
   
-* interferometer_chirp_test_sample_data.mat
+* interferometer_chirp_test_sample_data.mat - a sample data of the interferometer signal with chirp.
 
-* interferometer_chirp_test.m
+* interferometer_chirp_test.m - a script to analyze the chirp data.
 
-* XIMEA_Speckle_Contrast_7.lua
+* XIMEA_Speckle_Contrast_7.lua - a script to collect the speckle contrast measurement data.
 
 ## Prerequisites
 
