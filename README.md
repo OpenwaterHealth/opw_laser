@@ -9,17 +9,17 @@ The noninvasive, real-time bloodflow monitoring system at Openwater employs the 
 This imaging approach requires an illumination system (a pulsed highly coherent infrared laser) and the detection system (a high QE in the infrared camera with pixel sizes close to wavelength of light). A holographic speckle pattern comprises bright and dark spots that arise due to the interference of multiple backscatterd light from scattering medium (biological tissue). The quality of speckle image depends on the coherence and the stablility of the laser used in the system. Therefore, the test protocol for the coherence and the stability is explained in details in the document "Laser Characterization and Qualification" in wiki.
 
 ## wiki - Laser Characterization:
-This document in wiki contains the information regarding the laser system used in Openwater bloodflow monitoring units. It explains the requirements for the laser systems, discusses the techincal issues, the tests and characterizations performed at Openwater laboratories to qualify the laser system.
+This document in wiki contains the information regarding the laser system used in Openwater bloodflow monitoring devices. It explains the requirements for the laser systems, discusses the techincal issues, the tests and characterizations performed at Openwater lab to qualify the laser system.
 
 ## files located in repo:
 
- This provides the final test procedure performed on the laser system with direct speckle contrast measruements to qualify the laser.
+ These are the sample data and scripts used in the characterizaton of the lasers.
   
-* interferometer_chirp_test_sample_data.mat
+* interferometer_chirp_test_sample_data.mat - a sample data of the interferometer signal with chirp.
 
-* interferometer_chirp_test.m
+* interferometer_chirp_test.m - a script to analyze the chirp data.
 
-* XIMEA_Speckle_Contrast_7.lua
+* XIMEA_Speckle_Contrast_7.lua - a script to collect the speckle contrast data on XIMEA camera.
 
 ## Prerequisites
 
