@@ -6,10 +6,8 @@
 
 ## Getting Started
 The noninvasive, real-time bloodflow monitoring system at Openwater employs the phase-wave laser speckle contrast imaging technique with unprededented depth and blood flow velocity fidelity.
-This imaging approach requires an illumination system (a pulsed highly coherent infrared laser) and the detection system (a high QE in the infrared camera with pixel sizes close to wavelength of light). A holographic speckle pattern comprises bright and dark spots that arise due to the interference of multiple backscatterd light from scattering medium (biological tissue). The quality of speckle image depends on the coherence and the stablility of the laser used in the system. Therefore, the test protocol for the coherence and the stability is explained in details in the document "Laser Characterization and Qualification" in wiki.
+This imaging approach requires an illumination system (a pulsed highly coherent infrared laser) and the detection system (a high QE in the infrared camera with pixel sizes close to wavelength of light). A holographic speckle pattern comprises bright and dark spots that arise due to the interference of multiple backscatterd light from scattering medium (biological tissue). The quality of speckle image depends on the coherence and the stablility of the laser used in the system. Therefore, the test protocol for the coherence and the stability is explained in details in the document "[Laser Characterization][(https://wiki.openwater.health/index.php/Laser_Characterization)]" in wiki.
 
-## wiki - Laser Characterization:
-This document in wiki contains the information regarding the laser system used in Openwater bloodflow monitoring devices. It explains the requirements for the laser systems, discusses the techincal issues, the tests and characterizations performed at Openwater lab to qualify the laser system.
 
 ## files located in repo:
 
